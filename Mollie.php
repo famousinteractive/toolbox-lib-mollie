@@ -1,5 +1,5 @@
 <?php
-namespace App\Libraries\Famous\Mollie;
+namespace App\Libraries\Mollie;
 
 class Mollies
 {
